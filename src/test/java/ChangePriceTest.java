@@ -19,6 +19,7 @@ import java.io.IOException;
 public class ChangePriceTest {
     private WebDriver driver;
     private LginPage loginPage;
+
     private ChangePricePage ChangePrice;
 
     @BeforeTest
